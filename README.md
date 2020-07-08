@@ -1,8 +1,14 @@
 ====================Seja bem-vindo ao Jogo Roda Roda=================================
+
 => Para que o executável do programa funcione é necessário baixar os seguintes arquivos:
-•	palavras.dat
-•	premios.dat
-•	Projeto_JogoRodaRoda_Logica1.exe Após baixar este 3 arquivos é necessário deixá-los na mesma pasta ou diretório para executar o programa.
+
+-	palavras.dat
+
+-	premios.dat
+
+-	Projeto_JogoRodaRoda_Logica1.exe 
+
+Após baixar este 3 arquivos é necessário deixá-los na mesma pasta ou diretório para executar o programa.
 
 
 => Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo Projeto_JogoRodaRoda_Logica1.c
