@@ -1,4 +1,4 @@
-==================================================Seja bem-vindo ao Jogo Roda Roda===========================================================
+====================Seja bem-vindo ao Jogo Roda Roda=================================
 => Para que o executável do programa funcione é necessário baixar os seguintes arquivos:
 •	palavras.dat
 •	premios.dat
@@ -9,7 +9,7 @@
 
 
 
-===========================Definição do Projeto de Lógica 1 do Curso de análise e desenvolvimento de Sistemas do IFSP==========================
+=>Definição do Projeto de Lógica 1 do Curso de análise e desenvolvimento de Sistemas do IFSP
 
 
 Objetivo: 
@@ -27,11 +27,11 @@ char (17)	int	char vetpalavras[3][17]
 
 Exemplificando:
 
-Vegetal	2	ACELGA	ALFACE	
-Automóvel	3	MOTOR	EMBREAGEM	ESCAPAMENTO
-Cozinha	3	PRATO	PANELA	FOGÃO
-Réptil	1	JARARACA		
-Mamífero	2	BALEIA	MACACO	
+Vegetal:	ACELGA	ALFACE	
+Automóvel:	MOTOR	EMBREAGEM	ESCAPAMENTO
+Cozinha:	PRATO	PANELA	FOGÃO
+Réptil:	JARARACA		
+Mamífero:	BALEIA	MACACO	
 
 
 3 – Assim que o jogo começar, o programa deverá sortear, do arquivo PALAVRAS.DAT, um dos registros e mostrar a pista na tela.
@@ -179,7 +179,6 @@ R$ 800,00					R$ 0,00				R$ 0,00
 Roda a roda!
 
 Jogador 1: Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
 Valendo R$ 1800,00, a palavra é: _
 
 
@@ -199,7 +198,6 @@ R$ 800,00					R$ 0,00				R$ 0,00
 Roda a roda!
 
 Jogador 1: Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
 Valendo R$ 1800,00, a palavra é: JARARACA
 
 
@@ -234,7 +232,6 @@ R$ 800,00					R$ 0,00				R$ 0,00
 Roda a roda!
 
 Jogador 1: Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
 Valendo R$ 1800,00, a palavra é: NÃO SEI
 
 
@@ -252,7 +249,6 @@ R$ 800,00					R$ 0,00				R$ 0,00
 
 Jogador 2: Roda a roda!
 Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
 Valendo R$ 1.000,00, a palavra é: _
 
 
@@ -270,7 +266,6 @@ R$ 800,00					R$ 0,00				R$ 0,00
 
 Jogador 2: Roda a roda!
 Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
 Valendo R$ 1.000,00, a palavra é: JARARACA
 
 E depois assim:
@@ -283,7 +278,7 @@ Jogador 1					Jogador 2				Jogador 3
 ==========					=========				=========
 R$ 800,00					R$ 1.000,00				R$ 0,00
 
-                                    VENCEDOR
+                    VENCEDOR
 14. Caso o segundo jogador também não acerte a palavra, a vez será passada para o terceiro jogador.
 
 Considerando ainda o prêmio de R$ 1.000,00; somando ao valor que o próximo jogador já tem, a tela ficaria assim:
@@ -300,7 +295,6 @@ R$ 800,00					R$ 0,00				R$ 0,00
 
 Jogador 3: Roda a roda!
 Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
 Valendo R$ 1.000,00, a palavra é: _
 
 
@@ -318,8 +312,7 @@ R$ 800,00					R$ 0,00				R$ 0,00
 
 Jogador 3: Roda a roda!
 Faltam 3 letras para completar a palavra.
-Você tem 5 segundos para pensar e depois digitar a palavra...5...4...3...2...1...
-Valendo R$ 1.000,00, a palavra é: JARARACA
+Valendo R$ 1.200,00, a palavra é: JARARACA
 
 E depois assim:
 
@@ -329,7 +322,7 @@ J A R A R A C A
 
 Jogador 1					Jogador 2				Jogador 3
 ==========					=========				=========
-R$ 800,00					R$ 1.000,00				R$ 1.000,00
+R$ 800,00					R$ 1.000,00				R$ 1.200,00
 
-                                    					VENCEDOR
+                                    	VENCEDOR
 
