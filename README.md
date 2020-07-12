@@ -1,4 +1,7 @@
-====================Seja bem-vindo ao Jogo Roda Roda=================================
+Este Projeto foi criado com o objetivo de desenvolver o jogo Roda Roda para a disciplina de Lógica 1.
+O projeto deveria ser criado totalmente na Linguagem C.
+
+===============================Seja bem-vindo ao Jogo Roda Roda======================================
 
 => Para que o executável do programa funcione é necessário baixar os seguintes arquivos:
 
@@ -11,9 +14,10 @@
 Após baixar este 3 arquivos é necessário deixá-los na mesma pasta ou diretório para executar o programa.
 
 
-=> Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo Projeto_JogoRodaRoda_Logica1.c
+=> Caso deseje visualizar o código na Linguagem C é necessário baixar somente o arquivo
+Projeto_JogoRodaRoda_Logica1.c
 
-
+=======================================================================================================
 
 =>Definição do Projeto de Lógica 1 do Curso de análise e desenvolvimento de Sistemas do IFSP
 
