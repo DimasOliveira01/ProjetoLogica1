@@ -56,7 +56,9 @@ A palavra está associada com: Réptil
 
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 0,00					R$ 0,00				R$ 0,00
 
 5 – Depois de sorteada e mostrada a pista, o programa deverá, também, mostrar os espaços referentes a cada palavra (uma palavra em cada linha). No caso de Réptil, só existe uma palavra para tratar (JARARACA). Assim devem aparecer 8 espaços na tela para compor a palavra. Vide tela exemplo a seguir.
@@ -67,7 +69,9 @@ A palavra está associada com: Réptil
 _ _ _ _ _ _ _ _
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 0,00					R$ 0,00				R$ 0,00
 
 6 – A primeira rodada do jogo sempre é iniciada pelo jogador 1. Assim, o programa deverá solicitar ao jogador que "rode a roda!". Neste momento, o programa deverá sortear do arquivo chamado PREMIOS.DAT um dos prêmios. O layout do arquivo PREMIOS.DAT é o seguinte:
@@ -101,7 +105,9 @@ A palavra está associada com: Réptil
 _ _ _ _ _ _ _ _
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 0,00					R$ 0,00				R$ 0,00
 
 Roda a roda!
@@ -119,7 +125,9 @@ A palavra está associada com: Réptil
 _ A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
 
 
@@ -133,7 +141,9 @@ A palavra está associada com: Réptil
 _ _ _ _ _ _ _ _
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 0,00					R$ 0,00				R$ 0,00
 
 Uma letra por R$ 200,00: X
@@ -151,7 +161,9 @@ A palavra está associada com: Réptil
 _ _ _ _ _ _ _ _
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 0,00					R$ 0,00				R$ 0,00
 
 PASSA A VEZ
@@ -167,10 +179,13 @@ A palavra está associada com: Réptil
 _ _ _ _ _ _ _ _
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 0,00					R$ 0,00				R$ 0,00
 
-                                   Roda a roda!
+
+Roda a roda!
 
 
 11 – Quando faltarem 3 letras, ou menos, para completar a(s) palavra(s) o jogador da vez deverá obrigatoriamente responder qual é(são) a(s) palavra(s). Assim, o programa deverá fazer e exibir uma contagem regressiva de 5 segundos para depois solicitar a digitação da(s) palavra(s). Neste caso, a resposta certa valerá o total acumulado até o momento pelo jogador adicionado do prêmio sorteado nesta rodada.
@@ -183,8 +198,11 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
+
 
 Roda a roda!
 
@@ -202,8 +220,11 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
+
 
 Roda a roda!
 
@@ -219,8 +240,11 @@ A palavra está associada com: Réptil
 J A R A R A C A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 1800,00					R$ 0,00				R$ 0,00
+
 
 VENCEDOR
 
@@ -236,7 +260,9 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
 
 Roda a roda!
@@ -252,7 +278,9 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
 
 
@@ -269,7 +297,9 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
 
 
@@ -285,8 +315,11 @@ A palavra está associada com: Réptil
 J A R A R A C A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 1.000,00				R$ 0,00
+
 
                     VENCEDOR
 14. Caso o segundo jogador também não acerte a palavra, a vez será passada para o terceiro jogador.
@@ -298,7 +331,9 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
 
 
@@ -315,7 +350,9 @@ A palavra está associada com: Réptil
 J A _ A _ A _ A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 0,00				R$ 0,00
 
 
@@ -331,8 +368,10 @@ A palavra está associada com: Réptil
 J A R A R A C A
 
 Jogador 1					Jogador 2				Jogador 3
+
 ==========					=========				=========
+
 R$ 800,00					R$ 1.000,00				R$ 1.200,00
 
-                                    	VENCEDOR
+                                    VENCEDOR
 
